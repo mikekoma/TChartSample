@@ -7,6 +7,7 @@ TChart Sample
 
 Delphi TChart‚ÌƒTƒ“ƒvƒ‹
 
+![ScreenShot](https://raw.githubusercontent.com/mikekoma/TChartSample/master/readme/tchart_sample.png)
 
 # Description
 
