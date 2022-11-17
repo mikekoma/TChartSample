@@ -17,6 +17,9 @@ TChartのサンプル
 
 Delphi11.2 + TChart(バンドル)
 
+## 若干の解説
+[Delphiメモ→TChart(TeeChart)](https://www.s-m-l.org/dev/delphi.html#TChart(TeeChart))
+
 
 # Licence
 
